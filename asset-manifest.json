@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/solo-project-2/static/css/main.cb215a7f.css",
+    "main.js": "/solo-project-2/static/js/main.8628a292.js",
+    "static/js/787.7cbb66eb.chunk.js": "/solo-project-2/static/js/787.7cbb66eb.chunk.js",
+    "static/media/Geirangerfjord.png": "/solo-project-2/static/media/Geirangerfjord.8a7c1dbb95db2b2c298d.png",
+    "static/media/Sydney Opera House.png": "/solo-project-2/static/media/Sydney Opera House.3763fbd4216d2c322d5a.png",
+    "static/media/Mount Fuji.png": "/solo-project-2/static/media/Mount Fuji.10ff067ecd97eb859f6f.png",
+    "index.html": "/solo-project-2/index.html",
+    "main.cb215a7f.css.map": "/solo-project-2/static/css/main.cb215a7f.css.map",
+    "main.8628a292.js.map": "/solo-project-2/static/js/main.8628a292.js.map",
+    "787.7cbb66eb.chunk.js.map": "/solo-project-2/static/js/787.7cbb66eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb215a7f.css",
+    "static/js/main.8628a292.js"
+  ]
+}
